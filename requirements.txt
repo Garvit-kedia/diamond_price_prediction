@@ -1,0 +1,4 @@
+pandas
+numpy 
+flask
+# -e . to trigger  setup.py  and packages w
